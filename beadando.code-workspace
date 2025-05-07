@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../../../Desktop/bootstrap-3.4.1-dist/css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "beadando"
+	}
+}
